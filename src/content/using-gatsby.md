@@ -1,14 +1,14 @@
 ---
-layout: post
+excerpt:
+image: img/writing.jpg
 date: '2015-02-02'
 tags:
   - Getting Started
-draft: false
+  - Gatbsy
+draft:
 title: Using Gatsby
-updated_at: '2019-08-28T17:53:21.575Z'
 author: gatsby
-image: img/writing.jpg
-contentType: page
+updated_at: '2019-08-28T20:15:58.698Z'
 ---
 
 ## Quick Start
