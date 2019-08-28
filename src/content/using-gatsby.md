@@ -1,4 +1,5 @@
 ---
+author: gatsby
 excerpt:
 image: img/writing.jpg
 date: '2015-02-02'
@@ -7,8 +8,7 @@ tags:
   - Gatbsy
 draft:
 title: Using Gatsby
-author: gatsby
-updated_at: '2019-08-28T20:15:58.698Z'
+updated_at: '2019-08-28T20:37:36.969Z'
 ---
 
 ## Quick Start
